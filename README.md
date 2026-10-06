@@ -2,6 +2,9 @@
 
 A collection of custom and stock Android boot animations converted into high-quality GIFs.
 
+> [!NOTE]  
+> **⚠️ The GIF previews are compressed for quick loading and do not represent the actual full FPS smooth transition of the real boot animations.**
+
 ## Preview Gallery
 
 <table>
